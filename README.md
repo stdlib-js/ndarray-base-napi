@@ -18,6 +18,17 @@ limitations under the License.
 
 -->
 
+
+<details>
+  <summary>
+    About stdlib...
+  </summary>
+  <p>We believe in a future in which the web is a preferred environment for numerical computation. To help realize this future, we've built stdlib. stdlib is a standard library, with an emphasis on numerical and scientific computation, written in JavaScript (and C) for execution in browsers and in Node.js.</p>
+  <p>The library is fully decomposable, being architected in such a way that you can swap out and mix and match APIs and functionality to cater to your exact preferences and use cases.</p>
+  <p>When you use stdlib, you can be absolutely certain that you are using the most thorough, rigorous, well-written, studied, documented, tested, measured, and high-quality code out there.</p>
+  <p>To join us in bringing numerical computing to the web, get started by checking us out on <a href="https://github.com/stdlib-js/stdlib">GitHub</a>, and please consider <a href="https://opencollective.com/stdlib">financially supporting stdlib</a>. We greatly appreciate your continued support!</p>
+</details>
+
 # ndarray Native Add-ons
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
@@ -108,9 +119,9 @@ This package exposes various C APIs to facilitate the creation of Node-API ndarr
 
 <!-- NOTE: please keep in alphabetical order -->
 
--   [`@stdlib/ndarray/base/napi/unary`][@stdlib/ndarray/base/napi/unary]: Node-API interfaces and macros for registering one or more [`@stdlib/ndarray/base/unary`][@stdlib/ndarray/base/unary] interfaces with support for multiple dispatch.
--   [`@stdlib/ndarray/base/unary`][@stdlib/ndarray/base/unary]: ndarray loops for operating on a single input ndarray and one or more output ndarrays.
--   [`@stdlib/ndarray/dtypes`][@stdlib/ndarray/dtypes]: supported ndarray data types.
+-   [`@stdlib/ndarray-base/napi/unary`][@stdlib/ndarray/base/napi/unary]: Node-API interfaces and macros for registering one or more [`@stdlib/ndarray/base/unary`][@stdlib/ndarray/base/unary] interfaces with support for multiple dispatch.
+-   [`@stdlib/ndarray-base/unary`][@stdlib/ndarray/base/unary]: ndarray loops for operating on a single input ndarray and one or more output ndarrays.
+-   [`@stdlib/ndarray-dtypes`][@stdlib/ndarray/dtypes]: supported ndarray data types.
 
 For API documentation, consult the individual packages.
 
@@ -215,8 +226,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/ndarray-base-napi.svg
 [npm-url]: https://npmjs.org/package/@stdlib/ndarray-base-napi
 
-[test-image]: https://github.com/stdlib-js/ndarray-base-napi/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/ndarray-base-napi/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/ndarray-base-napi/actions/workflows/test.yml/badge.svg?branch=v0.1.0
+[test-url]: https://github.com/stdlib-js/ndarray-base-napi/actions/workflows/test.yml?query=branch:v0.1.0
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-base-napi/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/ndarray-base-napi?branch=main
@@ -229,7 +240,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
