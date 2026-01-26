@@ -4,15 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-26)
 
 <section class="issues">
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#5960](https://github.com/stdlib-js/stdlib/issues/5960), [#7135](https://github.com/stdlib-js/stdlib/issues/7135), [#7215](https://github.com/stdlib-js/stdlib/issues/7215)
+[#5960](https://github.com/stdlib-js/stdlib/issues/5960), [#7135](https://github.com/stdlib-js/stdlib/issues/7135), [#7215](https://github.com/stdlib-js/stdlib/issues/7215), [#9570](https://github.com/stdlib-js/stdlib/issues/9570)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`ed3afe7`](https://github.com/stdlib-js/stdlib/commit/ed3afe7252708109f1a8350c15bcdabcc96f6e0a) - **chore:** fix C lint errors [(#9571)](https://github.com/stdlib-js/stdlib/pull/9571) _(by Geo Daoyu)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`3e432af`](https://github.com/stdlib-js/stdlib/commit/3e432af9104dae7dab407d3b8df14ae6c7f78310) - **chore:** fix EditorConfig lint errors [(#7226)](https://github.com/stdlib-js/stdlib/pull/7226) _(by Deepak Singh)_
 -   [`a5f516c`](https://github.com/stdlib-js/stdlib/commit/a5f516c96d479568dca5099e24fe709977d3ec5b) - **chore:** fix EditorConfig lint errors [(#7137)](https://github.com/stdlib-js/stdlib/pull/7137) _(by Karan Vasudevamurthy)_
@@ -40,10 +41,11 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Deepak Singh
 -   Gautam Kaushik
+-   Geo Daoyu
 -   Karan Vasudevamurthy
 -   Philipp Burckhardt
 
