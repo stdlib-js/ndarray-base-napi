@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-26)
+## Unreleased (2026-01-28)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`40c30fb`](https://github.com/stdlib-js/stdlib/commit/40c30fb11f3c1b99e073b5a2aa217bce452c3402) - **docs:** fix type _(by Athan Reines)_
 -   [`ed3afe7`](https://github.com/stdlib-js/stdlib/commit/ed3afe7252708109f1a8350c15bcdabcc96f6e0a) - **chore:** fix C lint errors [(#9571)](https://github.com/stdlib-js/stdlib/pull/9571) _(by Geo Daoyu)_
 -   [`6eee151`](https://github.com/stdlib-js/stdlib/commit/6eee15199727d04e3757e66f38384e97b8a333da) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 -   [`3e432af`](https://github.com/stdlib-js/stdlib/commit/3e432af9104dae7dab407d3b8df14ae6c7f78310) - **chore:** fix EditorConfig lint errors [(#7226)](https://github.com/stdlib-js/stdlib/pull/7226) _(by Deepak Singh)_
@@ -41,8 +42,9 @@ A total of 4 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Deepak Singh
 -   Gautam Kaushik
 -   Geo Daoyu
