@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-napi",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "C APIs for creating Node-API ndarray native add-ons.",
   "license": "Apache-2.0",
   "author": {
@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@stdlib/ndarray-base-function-object": "^0.2.2",
-    "@stdlib/ndarray-base-napi-unary": "^0.2.1",
+    "@stdlib/ndarray-base-napi-unary": "^0.2.2",
     "@stdlib/ndarray-base-unary": "^0.3.0",
     "@stdlib/ndarray-dtypes": "^0.4.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
